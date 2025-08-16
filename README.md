@@ -71,9 +71,3 @@ This project is licensed under the MIT License.
 Prashant Gardhe
 Flutter Developer | Dart Enthusiast
 
-
----
-
-If you want, I can customize this `README.md` based on your quiz app’s **exact features** by looking at your Dart source files. This will make it fully accurate for your project.  
-Do you want me to scan your code and tailor the README accordingly? ​:contentReference[oaicite:0]{index=0}​
-
